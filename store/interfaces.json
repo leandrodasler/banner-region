@@ -1,0 +1,14 @@
+{
+  "region-banner": {
+    "component": "RegionBanner",
+    "composition": "children",
+    "allowed": "*",
+    "content": {
+      "properties": {
+        "images": {
+          "$ref": "app:bravtexgrocerystore.bravtexgrocery-newcomponents#/definitions/Images"
+        }
+      }
+    }
+  }
+}
